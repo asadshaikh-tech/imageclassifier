@@ -32,3 +32,11 @@ python -m venv .venv
 3. Install Dependencies
 
 pip install tensorflow
+
+4. Add Your Image
+   
+Place your image file (e.g., mydog.jpg) inside the project folder.
+
+6. Run the Script
+
+python classify_image.py
