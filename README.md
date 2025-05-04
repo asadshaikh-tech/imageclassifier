@@ -21,3 +21,9 @@ This is a simple image classification project using the pre-trained **MobileNet*
 git clone https://github.com/yourusername/image_classifier.git
 
 cd image_classifier
+
+2. Create a Virtual Environment (optional but recommended)
+   
+python -m venv .venv
+
+.venv\Scripts\activate  # Windows
